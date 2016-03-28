@@ -25,14 +25,13 @@ The following **optional** features are implemented:
 - [ ] Replies should be prefixed with the username and the reply_id should be set when posting the tweet,
 - [ ] User can load more tweets once they reach the bottom of the feed using infinite loading similar to the actual Twitter client.
 
-The following **additional** features are implemented:
-
--
+The following **additional** features are implemented: N/A
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. How to effectively work with Auto Layout.
+1. How to effectively work with Auto Layout
 2. Use of 3rd party frameworks and its change during the time.
+3. Closures in Swift
 
 ## Video Walkthrough
 
@@ -46,7 +45,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-- Auto Layout always takes a lot of time.
+- Auto Layout for image view: full size view, and in case no image at all
 - 
 
 ## License
